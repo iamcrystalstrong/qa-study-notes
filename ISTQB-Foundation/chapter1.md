@@ -10,12 +10,19 @@ WHY SOFTWARE FAILS
 - Testing contrubite to both avoidance and identification of failure.
 
 ## Check of Understanding
-Q: Describe the interaction between errors, defects and failues. 
+Q: Describe the interaction between errors, defects and failues.
+
 *A: An error is a mistake, that creates a defect in the code, which can cause a failure when the software is used.*
 
 
 Q: Software failures can cause losses. Give three consequences of software failures.
+
 *A: 1 -Software failures can cause financial loss for a company. 2 - Software failures can damage a company’s reputation and customer trust. 3 - Software failures can cause safety risks in critical systems.*
+
+
+Q: What are the verticles of the 'resources triangle'?
+
+*A: The three vertices of the resources triangle are time, money, and quality. *
 
 ## Terminology
 *false positive* - failure in the test but application or system performing correctly.
