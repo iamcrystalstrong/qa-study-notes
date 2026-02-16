@@ -2,24 +2,23 @@
 
 ## Key Ideas
 WHY SOFTWARE FAILS
-- Errors are incorrect thought, a wrong assumption or a thing that is forgotten or not considered.
-- Errors can lead to defects.
-- Defects are faults or bugs (ex. problems in the code).
-- Defects (faulty components built into a system) can lead to failures.
-- Failures are visable incorrect behaviours.
-- Testing contrubite to both avoidance and identification of failure.
+  - Errors are incorrect thought, a wrong assumption or a thing that is forgotten or not considered.
+  - Errors can lead to defects.
+  - Defects are faults or bugs (ex. problems in the code).
+  - Defects (faulty components built into a system) can lead to failures.
+  - Failures are visable incorrect behaviours.
+  - Testing contrubite to both avoidance and identification of failure.
 
 WHAT TESTING IS AND WHAT TESTING DOES 
-
--Testing is the systematic and methodical examination of a work product to see if it has defects and meets requirements.
--Testing aims to:
- - examine work products
- - check if all requirments have been satisfied
- - determine wheter the item under tis is complete and works are expected
- - instill confidence in quaility of item being test
- - give information to help determine if product is suitable for release
- - reduce the level of risk
- - comply with regulatory requirements or standards
+  -Testing is the systematic and methodical examination of a work product to see if it has defects and meets requirements.
+  -Testing aims to:
+    - examine work products
+    - check if all requirments have been satisfied
+    - determine wheter the item under tis is complete and works are expected
+    - instill confidence in quaility of item being test
+    - give information to help determine if product is suitable for release
+    - reduce the level of risk
+    - comply with regulatory requirements or standards
 
 ## Check of Understanding
 Q: Describe the interaction between errors, defects and failues.
