@@ -9,6 +9,8 @@ WHY SOFTWARE FAILS
 - Failures are visable incorrect behaviours.
 - Testing contrubite to both avoidance and identification of failure.
 
+WHAT TESTING IS AND WHAT TESTING DOES
+
 ## Check of Understanding
 Q: Describe the interaction between errors, defects and failues.
 
