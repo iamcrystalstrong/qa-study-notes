@@ -22,6 +22,13 @@ WHAT TESTING DOES
     - give information to help determine if product is suitable for release
     - reduce the level of risk
     - comply with regulatory requirements or standards
+- Testing
+  - Checking a work product
+  - Looking for defects
+    - Error → human mistake
+    - Defect → problem in code
+    - Failure → incorrect system behavior
+
       
 ## Check of Understanding
 Q: Describe the interaction between errors, defects and failues.
@@ -43,8 +50,8 @@ Q: What are the verticles of the 'resources triangle'?
 
 *false negative* - when there is a real failure but nothing is identified and test is seen as correct.
 
-# Notes
 
+## Spacing
 - Testing
   - Checking a work product
   - Looking for defects
