@@ -42,3 +42,14 @@ Q: What are the verticles of the 'resources triangle'?
 *false positive* - failure in the test but application or system performing correctly.
 
 *false negative* - when there is a real failure but nothing is identified and test is seen as correct.
+
+# Notes
+
+- Testing
+  - Checking a work product
+  - Looking for defects
+    - Error → human mistake
+    - Defect → problem in code
+    - Failure → incorrect system behavior
+
+
