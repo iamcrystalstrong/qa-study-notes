@@ -26,7 +26,7 @@ WHAT TESTING DOES
   - Checking a work product
   - Looking for defects
     - Error → human mistake
-    - Defect → problem in code
+    - Defect → problem in kode
     - Failure → incorrect system behavior
 
       
