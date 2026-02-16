@@ -11,6 +11,7 @@ WHY SOFTWARE FAILS
 
     
 WHAT TESTING IS AND WHAT TESTING DOES
+
   -Testing is the systematic and methodical examination of a work product to see if it has defects and meets requirements.
   -Testing aims to:
   - examine work products
