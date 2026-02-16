@@ -8,6 +8,7 @@ WHY SOFTWARE FAILS
   - Defects (faulty components built into a system) can lead to failures.
   - Failures are visable incorrect behaviours.
   - Testing contrubite to both avoidance and identification of failure.
+    
 WHAT TESTING IS AND WHAT TESTING DOES
   -Testing is the systematic and methodical examination of a work product to see if it has defects and meets requirements.
   -Testing aims to:
