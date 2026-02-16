@@ -41,13 +41,6 @@ Q: What are the verticles of the 'resources triangle'?
 
 *false negative* - when there is a real failure but nothing is identified and test is seen as correct.
 
-
-*md file spacing*
-- 
-  - 
-  - 
-    - 
-    - 
-    - 
+ 
 
 
