@@ -22,7 +22,7 @@ Q: Software failures can cause losses. Give three consequences of software failu
 
 Q: What are the verticles of the 'resources triangle'?
 
-*A: The three vertices of the resources triangle are time, money, and quality. *
+*A: The three vertices of the resources triangle are time, money, and quality.*
 
 ## Terminology
 *false positive* - failure in the test but application or system performing correctly.
