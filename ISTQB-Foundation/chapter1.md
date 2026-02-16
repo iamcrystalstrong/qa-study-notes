@@ -13,13 +13,13 @@ WHY SOFTWARE FAILS
 WHAT TESTING AND WHAT TESTING DOES
 - Testing is the systematic and methodical examination of a work product to see if it has defects and meets requirements.
 - Testing aims to:
-  - →exaimine work products
-  - →check if all requirments have been satisfied
-  - →determine wheter the item under tis is complete and works are expected
-  - →instill confidence in quaility of item being test
-  - →give information to help determine if product is suitable for release
-  - →reduce the level of risk
-  - →comply with regulatory requirements or standards
+  - exaimine work products
+  - check if all requirments have been satisfied
+  - determine wheter the item under tis is complete and works are expected
+  - instill confidence in quaility of item being test
+  - give information to help determine if product is suitable for release
+  - reduce the level of risk
+  - comply with regulatory requirements or standards
       
 ## Check of Understanding
 Q: Describe the interaction between errors, defects and failues.
@@ -42,12 +42,12 @@ Q: What are the verticles of the 'resources triangle'?
 *false negative* - when there is a real failure but nothing is identified and test is seen as correct.
 
 
-## Spacing
-- Testing
-  - Checking a work product
-  - Looking for defects
-    - Error → human mistake
-    - Defect → problem in code
-    - Failure → incorrect system behavior
+*md file spacing*
+- 
+  - 
+  - 
+    - 
+    - 
+    - 
 
 
