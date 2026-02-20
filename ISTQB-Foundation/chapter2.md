@@ -18,4 +18,5 @@ Q:
 
 ## Terminology
 *work product* - an intermediate deliverable required to create the final product.
+
 *waterfall model* - also referred to as a linear or sequential model. Example of waterfall model work flow: requirement specification → functional specification → technical specification → program specification → coding → test. (Testing is carrried out once code has been fully developed. )
