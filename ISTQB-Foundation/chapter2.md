@@ -11,7 +11,7 @@ TESTING WITH SOFTWARE DEVELOPMENT MODELS
   - testing the product
   - product release
  
-  - Checking throughout the life cycle include verfication and vaildation.
+- Checking throughout the life cycle include verfication and vaildation.
 
     
 ## Check of Understanding
