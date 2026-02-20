@@ -2,7 +2,7 @@
 
 ## Key Ideas
 TESTING WITH SOFTWARE DEVELOPMENT MODELS
-  - n/a
+  - Documentation or code can be work products. They will become the product when the system is declared ready for release.
 
       
 ## Check of Understanding
@@ -11,4 +11,4 @@ Q:
 *A:*
 
 ## Terminology
-*n/a* - n/a.
+*work product* - an intermediate deliverable required to create the final product.
