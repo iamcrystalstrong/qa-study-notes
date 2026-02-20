@@ -10,7 +10,10 @@ TESTING WITH SOFTWARE DEVELOPMENT MODELS
   - writing the code
   - testing the product
   - product release
-      
+ 
+  - Checking throughout the life cycle include verfication and vaildation.
+
+    
 ## Check of Understanding
 Q: 
 
