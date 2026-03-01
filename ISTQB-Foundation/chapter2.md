@@ -16,6 +16,18 @@ TESTING WITH SOFTWARE DEVELOPMENT MODELS
 - *Funcitonal specifications* define the functions required to meet user needs.
 - *Technical specifications* idenfity the technical design of functions identified in the functional specification.
 - *Program specifications* details the design of each module or unit to be built to meet required functionality.
+- In the *V model* development planning and testing starts with each work product. For each work product, a testing activity is identified.
+- *Iterative development* is a type of development reffered to as cyclical because it goes around the development cycle a number of times within the project. The cycles are referred to as time-boxes. In the time-box a requirment is defined and a version of the code is produced. At the end of each time-box, a decision is made on what extra funcitonality needs to be created for the next iteration. This process is repeated until a fully working system has been produced.
+  - Scrum
+  - Kanban-
+  - Unified Process
+  - Spiral
+  - ATDD
+  - BDD
+  - DDD
+  - FDD
+  - XP
+  - Lean IT
 
     
 ## Check of Understanding
