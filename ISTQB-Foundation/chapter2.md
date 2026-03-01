@@ -21,13 +21,13 @@ TESTING WITH SOFTWARE DEVELOPMENT MODELS
   - *Scrum*- increments developed are small and the focus is on short iterations spanning just hours, days or a few weeks.
   - *Kanban*-Allows for easy visualisation fo a workflow via a task board (Also used in Scrum). THe task board features a 'to do' state and a 'done' state.
   - *Unified Process*- increments (iterations) are longer and features are larger than with Scrum.  
-  - *Spiral*- Risk determine the level of documenation and effort required for a given project. Can include a prototyping model, where created increments may be reworked significantly or abandoned if the risks are too high.
-  - *ATDD*- The stakeholders are heavily involved in defining the criteria for accepting a user story. The creation of the code is then driven from these criteria.
-  - *BDD*-
-  - *DDD*-
-  - *FDD*-
-  - *XP*-
-  - *Lean IT*-
+  - *Spiral*- risk determine the level of documenation and effort required for a given project. Can include a prototyping model, where created increments may be reworked significantly or abandoned if the risks are too high.
+  - *ATDD*- the stakeholders are heavily involved in defining the criteria for accepting a user story. The creation of the code is then driven from these criteria.
+  - *BDD*- the developer writes tests in a natural language based on the expected behaviour of the system. These tests are compiled and translated into automatically executable tests. 
+  - *DDD*- domain-driven development. Uses a Ubiquitous Language, use the same terminology is sued by all stakeholders across a team. This languageis also reflected at code level to further reduce possible ambiguities and increase quality across the entire life cycle. 
+  - *FDD*- follos a five-step process focused on features. Create a model, create a list of features, then plan, design and build to those features. 
+  - *XP*- includes values of communication, feedback, improvement and accepted responsibility, whole team and continuous intergration.
+  - *Lean IT*- concentrates on improving value flow and eliminating wasteful practices. 
 
     
 ## Check of Understanding
